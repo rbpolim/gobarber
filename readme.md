@@ -62,6 +62,6 @@
 |----------|----------|----------|
 | ![example](https://user-images.githubusercontent.com/66570560/114106197-9f52e300-98a4-11eb-8bca-0cee7ba4640d.png) |  ![example](https://user-images.githubusercontent.com/66570560/114106328-e9d45f80-98a4-11eb-9838-22dd70f178e6.png) |  ![example](https://user-images.githubusercontent.com/66570560/114106352-f3f65e00-98a4-11eb-8d1a-34bfece805a1.png)
 
+| Mobile Client | Mobile Client | Mobile Client |
 |----------|----------|----------|
 | ![example](https://user-images.githubusercontent.com/66570560/114106511-4b94c980-98a5-11eb-90a0-403fc22f2d04.png) |  ![example](https://user-images.githubusercontent.com/66570560/114106541-5baca900-98a5-11eb-9d5c-fe0b6f91b7fb.png) |  ![example](https://user-images.githubusercontent.com/66570560/114106557-65361100-98a5-11eb-8d09-925d9bbb70b3.png)
-
