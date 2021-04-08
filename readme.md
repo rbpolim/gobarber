@@ -2,7 +2,8 @@
 
 ### :computer: Project
 
-<p>GoBarber is a web and mobile platform for scheduling barber services. A developed application divided into three repositories: REST API, web client and mobile client. The Rest API provides JSON content with requirements and rules, consumed by the ReactJS frontend and a Hybrid Mobile application with React Native.</p>
+<p>GoBarber is a web and mobile platform for scheduling barber services. A developed application divided into three repositories: REST API, web client and mobile client. 
+</br>The Rest API provides JSON content with requirements and rules, consumed by the ReactJS frontend and a Hybrid Mobile application with React Native.</p>
 
 ### :rocket: Technologies
 
@@ -45,25 +46,19 @@
 
 ### :bookmark: Layout
 
+[Figma Web]https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=34%3A1180
+[Figma Mobile]https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=0%3A1
+
 <p align="center">
  <img
-  src="https://user-images.githubusercontent.com/66570560/114092357-2cd80800-9890-11eb-8713-1a983e1e5008.png"
-  alt="Dashgo"
-  width="800px"
-/>
-</p>
-</br>
-<p align="center">
- <img
-  src="https://user-images.githubusercontent.com/66570560/114093271-46c61a80-9891-11eb-808a-62016523d6d7.png"
-  alt="Dashgo"
-  width="800px"
+  src="https://user-images.githubusercontent.com/66570560/114106083-6ca8ea80-98a4-11eb-86ca-7882ecdb7558.png"
+  alt="Gobarber"
+  width="720px"
 />
 </p>
 </br>
 
-| Menu Version mobile | Version mobile |
-|----------|----------|
-| ![example](https://user-images.githubusercontent.com/66570560/114093465-84c33e80-9891-11eb-9de0-c11a86e4783f.png) |  ![example](https://user-images.githubusercontent.com/66570560/114099066-9fe57c80-9898-11eb-99b6-ab879966a391.png)
-
+| Mobile Client | Mobile Client | Mobile Client |
+|----------|----------|----------|
+| ![example](https://user-images.githubusercontent.com/66570560/114106197-9f52e300-98a4-11eb-8bca-0cee7ba4640d.png) |  ![example](https://user-images.githubusercontent.com/66570560/114106328-e9d45f80-98a4-11eb-9838-22dd70f178e6.png) |  ![example](https://user-images.githubusercontent.com/66570560/114106352-f3f65e00-98a4-11eb-8d1a-34bfece805a1.png)
 
